@@ -1,0 +1,24 @@
+h3 {
+    text-align: center;
+}
+
+#time{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.buttons{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+input{
+    font-weight: bold;
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+}
+
+
